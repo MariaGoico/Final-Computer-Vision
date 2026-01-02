@@ -1,0 +1,5 @@
+Checkpoint_Name,Validation_MSE
+augmentation_mask_mix.ckpt,0.08661295260054552
+augmentation_photo_mask_mix.ckpt,0.10319286292115525
+augmentation_photo_mix.ckpt,0.2621942187510181
+dataset_mask.ckpt,0.2686012249440505

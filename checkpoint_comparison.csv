@@ -1,0 +1,5 @@
+Model,Val_MSE
+augmentation_mask_mix,0.08541028915806824
+augmentation_photo_mask_mix,0.14319032629346487
+dataset_mask,0.26217424754264734
+augmentation_photo_mix,0.27250409921486757
